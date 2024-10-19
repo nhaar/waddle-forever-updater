@@ -1,0 +1,10 @@
+# building
+/dist
+*.spec
+/build
+
+# testing
+*.zip
+WaddleForeverClient.exe
+/media
+/client_folder
